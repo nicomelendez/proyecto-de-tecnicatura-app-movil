@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Gestión de Reclamos UTEC</string>
+    <string name="title">Iniciar sesión</string>
+    <string name="description">Ingresa tu usuario y contraseña para poder iniciar sesión</string>
+    <string name="etUsername">Ingresa tu usuario...</string>
+    <string name="etPassword">Ingresa tu contraseña...</string>
+    <string name="btnIngresar">Iniciar sesión</string>
+    <string name="labelUser">Usuario</string>
+    <string name="labelPassword">Contraseña</string>
+    <string name="labelOlvidePassword">¿Olvidaste tu contraseña?</string>
+    <string name="nombre_de_usuario">Nombre de usuario</string>
+    <string name="contrasenia">Contraseña</string>
+    <string name="registrarme">Registrarme</string>
+    <string name="iniciar_sesion">Iniciar sesión</string>
+
+    <string name="prefs_file">com.utec.appmovil.PREFERENCE_FILE_KEY</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="editar">Editar</string>
+    <string name="nota_del_analista">Nota del Analista:</string>
+    <string name="reclamo">Reclamo</string>
+    <string name="reclamos">Reclamos</string>
+</resources>
